@@ -37,4 +37,11 @@
 <img src="https://github.com/OyaOzcan/spaceApp/assets/141520129/a81b41e4-0da5-48df-88f1-b1bace5bae21" width="200"/>
 
 <img src="https://github.com/OyaOzcan/spaceApp/assets/141520129/bbf89b2d-dae0-441a-a928-9951b80728ab" width="200"/>
-![Simulator Screenshot - iPhone 15 Pro - 2024-03-14 at 00 32 44](https://github.com/OyaOzcan/spaceApp/assets/141520129/2a41f617-1db5-4ae4-8db4-a42dd63bcc76)
+
+<img src="https://github.com/OyaOzcan/spaceApp/assets/141520129/0e28c339-b1c3-4276-b59d-cd83e5799b28" width="200"/>
+
+<img src="https://github.com/OyaOzcan/spaceApp/assets/141520129/35e64759-6ba3-44aa-83e1-bd5ab0a39f2e" width="200"/>
+
+<img src="https://github.com/OyaOzcan/spaceApp/assets/141520129/bf7c9eae-a5ed-4871-b2ff-4b37d3c187f1" width="200"/>
+
+<img src="https://github.com/OyaOzcan/spaceApp/assets/141520129/3a19ad95-59fb-4db2-83d6-ba24e9541963" width="200"/>
