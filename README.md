@@ -1,4 +1,4 @@
-![Simulator Screenshot - iPhone 15 Pro - 2024-03-14 at 00 32 39](https://github.com/OyaOzcan/spaceApp/assets/141520129/3bebaf8c-90e2-4ce8-92b0-52afeef35e85)# SpaceApp
+# SpaceApp
 
 ## Screenshots
 
@@ -47,3 +47,6 @@
 <img src="https://github.com/OyaOzcan/spaceApp/assets/141520129/3a19ad95-59fb-4db2-83d6-ba24e9541963"![Uploading Simulator Screenshot - iPhone 15 Pro - 2024-03-14 at 00.36.27.png…]()
 ![Simulator Screenshot - iPhone 15 Pro - 2024-03-14 at 00 35 46](https://github.com/OyaOzcan/spaceApp/assets/141520129/91c29bfe-ab0e-4a05-bf29-0e4616e0a52c)
  width="200"/>
+![Simulator Screenshot - iPhone 15 Pro - 2024-03-14 at 00 32 39](
+
+<img src= "https://github.com/OyaOzcan/spaceApp/assets/141520129/3bebaf8c-90e2-4ce8-92b0-52afeef35e85" width="200"/>
