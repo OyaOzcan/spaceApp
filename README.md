@@ -43,7 +43,8 @@
 <img src="https://github.com/OyaOzcan/spaceApp/assets/141520129/35e64759-6ba3-44aa-83e1-bd5ab0a39f2e" width="200"/>
 
 <img src="https://github.com/OyaOzcan/spaceApp/assets/141520129/bf7c9eae-a5ed-4871-b2ff-4b37d3c187f1" width="200"/>
-![Simulator Screenshot - iPhone 15 Pro - 2024-03-14 at 00 36 27](https://github.com/OyaOzcan/spaceApp/assets/141520129/b13a0644-9835-4b47-9a50-1e8902e485fc)
-![Simulator Screenshot - iPhone 15 Pro - 2024-03-14 at 00 32 44](https://github.com/OyaOzcan/spaceApp/assets/141520129/dff34602-7657-4d98-ae83-e3354a01c152)
-![Simulator Screenshot - iPhone 15 Pro - 2024-03-14 at 00 32 39](https://github.com/OyaOzcan/spaceApp/assets/141520129/2a8148ef-ab9f-4248-a00d-139ce2d66d1d)
-![Simulator Screenshot - iPhone 15 Pro - 2024-03-14 at 00 32 36](https://github.com/OyaOzcan/spaceApp/assets/141520129/317993e9-5762-45e6-a02c-ba09b9f78ac7)
+<img src="https://github.com/OyaOzcan/spaceApp/assets/141520129/317993e9-5762-45e6-a02c-ba09b9f78ac7" width="200"/>
+
+<img src="https://github.com/OyaOzcan/spaceApp/assets/141520129/2a8148ef-ab9f-4248-a00d-139ce2d66d1d" width="200"/>
+
+<img src="https://github.com/OyaOzcan/spaceApp/assets/141520129/b13a0644-9835-4b47-9a50-1e8902e485fc" width="200"/>
